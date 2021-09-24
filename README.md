@@ -6,11 +6,11 @@ Practicing React and ES6 by building a Coin information App.
 - Coins: List the coins and sort them by rank.
 
 ## Screens
-[ ] Prices
-[ ] Exchanges
-[ ] Coins
+- [ ] Prices
+- [ ] Exchanges
+- [ ] Coins
 
 ## API Verbs
-[ ] showPricesList
-[ ] showExchanges
-[ ] showCoins
+- [ ] showPricesList
+- [ ] showExchanges
+- [ ] showCoins
