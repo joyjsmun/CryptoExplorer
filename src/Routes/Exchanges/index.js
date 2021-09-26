@@ -1,3 +1,3 @@
-import ExchangeContainer from "./ExchangePresenter";
+import ExchangeContainer from "./ExchangeContainer";
 
 export default ExchangeContainer;

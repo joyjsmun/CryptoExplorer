@@ -5,16 +5,10 @@ Practicing React and ES6 by building a Coin information App.
 - Exchanges: Show the name of the exchange, description and website link.
 - Coins: List the coins and sort them by rank.
 
-## Screens
-- [ ] Prices
-- [ ] Exchanges
-- [ ] Coins
-
 ## API Verbs
 - [X] showPricesList
 - [X] showExchanges
 - [X] showCoins
-
 
 ## Containers(Functio&states)
 - [X] PricesContainer
@@ -24,5 +18,5 @@ Practicing React and ES6 by building a Coin information App.
 
 ## Presenters(Showing data)
 - [X] PricesdPresenter
-- [] CoinPresenter
-- [] ExchangePresenter
+- [X] CoinPresenter
+- [X] ExchangePresenter
