@@ -20,3 +20,9 @@ Practicing React and ES6 by building a Coin information App.
 - [X] PricesContainer
 - [X] CoinContainer
 - [X] ExchangeContainer
+
+
+## Presenters(Showing data)
+- [X] PricesdPresenter
+- [] CoinPresenter
+- [] ExchangePresenter
