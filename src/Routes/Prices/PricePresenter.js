@@ -14,7 +14,7 @@ const Item = styled.li`
 font-size:20px;
 `
 
-const PricePresenter = ({prices,loading,error}) => loading ? null:
+const PricePresenter = ({prices,loading,error}) => loading ? "Loading...":
     <Container>
         {prices && prices.length > 0 && <Section title="Prices List">
             {prices.map(ticker => 
