@@ -3,10 +3,18 @@ import PricePresenter from "./PricePresenter";
 
 export default class extends React.Component{
     state ={
-
+        prices:null,
+        loading:true,
+        error:null
     };
-
     render(){
-        return <PricePresenter />
-    }
+        const {prices,loading, error} = this.state
+        console.log(this.state);
+        return( 
+        <PricePresenter 
+            prices={prices}
+            loading={loading}
+            error={error}
+        />
+        )}
 }

@@ -11,6 +11,12 @@ Practicing React and ES6 by building a Coin information App.
 - [ ] Coins
 
 ## API Verbs
-- [ ] showPricesList
-- [ ] showExchanges
-- [ ] showCoins
+- [X] showPricesList
+- [X] showExchanges
+- [X] showCoins
+
+
+## Containers(Functio&states)
+- [X] PricesContainer
+- [X] CoinContainer
+- [X] ExchangeContainer
